@@ -1,0 +1,12 @@
+{
+  "name": "Lights Out",
+  "version": "1.0",
+  "main": "src/main.css",
+  "sn": {
+    "main": "src/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/m00t316/lights-out.git"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "identifier": "xyz.m00t.lights-out",
+  "name": "Lights Out",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "A dark theme for Standard Notes",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/m00t316/light-out",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#090909",
+    "foreground_color": "#737373",
+    "border_color": "#151515"
+  }
+}
