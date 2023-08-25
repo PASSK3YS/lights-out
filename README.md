@@ -1,4 +1,4 @@
-# lights-out
+# Lights Out
 
 ![preview](https://raw.githubusercontent.com/m00t316/lights-out/main/lights-out-preview.png)
 
