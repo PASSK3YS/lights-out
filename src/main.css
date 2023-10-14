@@ -10,7 +10,7 @@
   --sn-stylekit-neutral-color: var(--foreground-2); 
   --sn-stylekit-neutral-contrast-color: black;			/* Button text*/
  
-  --sn-stylekit-info-color: #FFFFFF;
+  --sn-stylekit-info-color: #9C9C9C;
   --sn-stylekit-info-color-darkened: red;			/* No effect noted */ 
   --sn-stylekit-info-contrast-color: black;			/* Button text */
   --sn-stylekit-info-backdrop-color: 	var(--background-3);			/* Background of selected theme and category in preferences*/
