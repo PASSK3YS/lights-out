@@ -3,7 +3,7 @@
   "name": "Lights Out",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.1",
+  "version": "1.2",
   "description": "A dark theme for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/m00t316/lights-out@1.1/src/main.css",
   "download_url": "https://github.com/m00t316/lights-out/archive/refs/tags/1.1.zip",
